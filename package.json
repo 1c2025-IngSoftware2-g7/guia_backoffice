@@ -2,7 +2,7 @@
   "name": "guia_backoffice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://1c2025-IngSoftware2-g7.github.io/guia_app",
+  "homepage": "https://1c2025-IngSoftware2-g7.github.io/guia_backoffice",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
