@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guia_backoffice/static/css/main.f855e6bc.css",
-    "main.js": "/guia_backoffice/static/js/main.b3dc3c53.js",
+    "main.css": "/guia_backoffice/static/css/main.2e0c3a17.css",
+    "main.js": "/guia_backoffice/static/js/main.5677ed41.js",
     "static/js/453.d763f6ff.chunk.js": "/guia_backoffice/static/js/453.d763f6ff.chunk.js",
-    "static/media/logo.svg": "/guia_backoffice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/demo.png": "/guia_backoffice/static/media/demo.5d8b35fc88751042f0ec.png",
     "index.html": "/guia_backoffice/index.html",
-    "main.f855e6bc.css.map": "/guia_backoffice/static/css/main.f855e6bc.css.map",
-    "main.b3dc3c53.js.map": "/guia_backoffice/static/js/main.b3dc3c53.js.map",
+    "main.2e0c3a17.css.map": "/guia_backoffice/static/css/main.2e0c3a17.css.map",
+    "main.5677ed41.js.map": "/guia_backoffice/static/js/main.5677ed41.js.map",
     "453.d763f6ff.chunk.js.map": "/guia_backoffice/static/js/453.d763f6ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b3dc3c53.js"
+    "static/css/main.2e0c3a17.css",
+    "static/js/main.5677ed41.js"
   ]
 }
