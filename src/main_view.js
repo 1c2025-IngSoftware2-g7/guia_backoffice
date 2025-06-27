@@ -1,14 +1,48 @@
 import { Typography, Box, useTheme } from "@mui/material";
 import ScreenshotSection from "./components/screenshots_section";
 import { tokens } from "./theme";
-import foto1 from "./screenshots/demo.png";
 import MembersSection from "./components/members_section";
 import AppIntroduction from "./components/app_introduction";
-
-const demo_screenshot = {
-  img_path: foto1,
+import aux from "./screenshots/aux.png";
+import courses from "./screenshots/courses.png";
+import create_admin from "./screenshots/create_admin.png";
+import dashboard from "./screenshots/dashboard.png";
+import login from "./screenshots/login.png";
+import users from "./screenshots/users.png";
+const login_package = {
+  img_path: login,
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Página de inicio de sesión. Solo permite el acceso a administradores. Expulsa a los administradores bloqueados.",
+};
+
+const dashboard_package = {
+  img_path: dashboard,
+  description:
+    "Dashboard. Muestra algunas métricas de los servicios. También te conecta con servicios externos.",
+};
+
+const create_admin_package = {
+  img_path: create_admin,
+  description:
+    "Registrar administradores. Te permite crear nuevos administradores. Esta es la única forma de agregar uno nuevo.",
+};
+
+const users_package = {
+  img_path: users,
+  description:
+    "Usuarios. Te permite ver a todos los usuarios del sistema. Puedes bloquear o desbloquear usuarios y verificar su estado de verificación.",
+};
+
+const courses_package = {
+  img_path: courses,
+  description:
+    "Cursos. Te permite ver todos los cursos en el sistema, la parte más importante de nuestra aplicación.",
+};
+
+const aux_package = {
+  img_path: aux,
+  description:
+    "Profesores Auxiliares. Te permite modificar los permisos de los auxiliares, definiendo cómo interactúan con la app y sus estudiantes.",
 };
 
 export default function MainView() {
@@ -42,12 +76,12 @@ export default function MainView() {
         <AppIntroduction />
         <ScreenshotSection
           screenshots={[
-            demo_screenshot,
-            demo_screenshot,
-            demo_screenshot,
-            demo_screenshot,
-            demo_screenshot,
-            demo_screenshot,
+            login_package,
+            dashboard_package,
+            create_admin_package,
+            users_package,
+            courses_package,
+            aux_package,
           ]}
         />
         <MembersSection />

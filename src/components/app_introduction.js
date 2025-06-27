@@ -23,32 +23,34 @@ const features = [
   {
     icon: <GroupIcon />,
     title: "Gestión de Users",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description: "Gestiona todos los usuarios del sistema!",
   },
   {
     icon: <ClassIcon />,
     title: "Gestión de Courses",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description: "Gestiona todos los cursos del sistema!",
   },
   {
     icon: <AdminPanelSettingsIcon />,
     title: "Creación de Admins",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description: "Aceptá ayuda creando nuevos administradores!",
   },
   {
     icon: <EqualizerIcon />,
     title: "Monitoreo de Métricas",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description: "Ve que todo esté funcionando como debería!",
   },
   {
     icon: <NoteAltIcon />,
     title: "Monitoreo de Logs",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description:
+      "Ten acceso a los logs de la aplicación en caso de alguna falla!",
   },
   {
     icon: <AnalyticsIcon />,
     title: "Queues",
-    description: "etc etc etc etc etc etc etc etc etc etc etc etc",
+    description:
+      "Implementamos tecnología moderna para mejorar la experiencia!",
   },
 ];
 
