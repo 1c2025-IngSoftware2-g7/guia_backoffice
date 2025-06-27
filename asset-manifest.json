@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/guia_backoffice/static/css/main.2e0c3a17.css",
-    "main.js": "/guia_backoffice/static/js/main.7d2c849a.js",
+    "main.js": "/guia_backoffice/static/js/main.06fbae30.js",
     "static/js/453.d763f6ff.chunk.js": "/guia_backoffice/static/js/453.d763f6ff.chunk.js",
-    "static/media/demo.png": "/guia_backoffice/static/media/demo.5d8b35fc88751042f0ec.png",
+    "static/media/courses.png": "/guia_backoffice/static/media/courses.b9395e44789bcb8e14f3.png",
+    "static/media/users.png": "/guia_backoffice/static/media/users.cd487c44f42afeb03bd9.png",
+    "static/media/aux.png": "/guia_backoffice/static/media/aux.c92b0ab1ca9eeab96846.png",
+    "static/media/dashboard.png": "/guia_backoffice/static/media/dashboard.0c19a41c232cac07a7ee.png",
+    "static/media/create_admin.png": "/guia_backoffice/static/media/create_admin.3b6b1cfc8309a4c3ad04.png",
+    "static/media/login.png": "/guia_backoffice/static/media/login.cff02c24b9a74c7398e8.png",
     "index.html": "/guia_backoffice/index.html",
     "main.2e0c3a17.css.map": "/guia_backoffice/static/css/main.2e0c3a17.css.map",
-    "main.7d2c849a.js.map": "/guia_backoffice/static/js/main.7d2c849a.js.map",
+    "main.06fbae30.js.map": "/guia_backoffice/static/js/main.06fbae30.js.map",
     "453.d763f6ff.chunk.js.map": "/guia_backoffice/static/js/453.d763f6ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e0c3a17.css",
-    "static/js/main.7d2c849a.js"
+    "static/js/main.06fbae30.js"
   ]
 }
